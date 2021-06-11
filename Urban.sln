@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31402.337
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Urban", "Urban\Urban.csproj", "{D243AEDB-64A0-4999-8918-E1330D18AE75}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UrbanSearcher", "urbanSearcher\UrbanSearcher.csproj", "{DEEB79D8-A03B-4C00-800D-07F53A672A3E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,10 +11,10 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{D243AEDB-64A0-4999-8918-E1330D18AE75}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{D243AEDB-64A0-4999-8918-E1330D18AE75}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{D243AEDB-64A0-4999-8918-E1330D18AE75}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{D243AEDB-64A0-4999-8918-E1330D18AE75}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DEEB79D8-A03B-4C00-800D-07F53A672A3E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DEEB79D8-A03B-4C00-800D-07F53A672A3E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DEEB79D8-A03B-4C00-800D-07F53A672A3E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DEEB79D8-A03B-4C00-800D-07F53A672A3E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
